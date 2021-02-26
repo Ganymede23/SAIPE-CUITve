@@ -1,2 +1,2 @@
 # SAIPE-CUITve
- Software de verificación de CUITs contra AFIP.
+ Aplicación de verificación de CUITs contra AFIP, para el Estudio Contable SAIPE.
